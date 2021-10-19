@@ -1,0 +1,2 @@
+def PsravaJane():
+    print("Hello!")
